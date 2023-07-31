@@ -1,6 +1,7 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic contract logic of retrieving all token balances given a wallet address and the token contract addresses.
+It is deployed on goerli testnet. 
 
 Try running some of the following tasks:
 
