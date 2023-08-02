@@ -8,7 +8,7 @@ const hre = require("hardhat");
 
 async function main() { 
 
-  const lockedAmount = hre.ethers.parseEther("0.001");
+  // const lockedAmount = hre.ethers.parseEther("0.001");
 
   const lock = await hre.ethers.deployContract("Billy", [], {
      
